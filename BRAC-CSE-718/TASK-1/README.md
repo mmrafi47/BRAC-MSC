@@ -16,3 +16,5 @@ Individual Submitter:
 ID: 23273008
 
 Name : Minar Mahmud Rafi
+
+I also correctly uploaded slide.PPT and report.PDF here.
