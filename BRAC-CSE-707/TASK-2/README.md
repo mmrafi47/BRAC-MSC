@@ -1,12 +1,12 @@
 BRAC-CSE-707 TASK -1 PDF AND Video Submission.
 
-Link to unlisted YouTube video: https://youtu.be/YlIXgQduXZA?feature=shared
+Link to unlisted YouTube video: https://youtu.be/0EddulWcXsE?feature=shared
 
-Public link to the slide : https://docs.google.com/presentation/d/156_AQkfBfN0uiHlsomLZXs1_1p2G4Xu6-KqDKoN2AQM/edit?usp=sharing
+Public link to the slide : https://docs.google.com/presentation/d/1WHUMILrnGl-pKEPpPyhxnwCLOP-19Hl-JEN0L27q0vg/edit?usp=sharing
 
-Paper title: A Novel Edge-Fog-Cloud Collaborative IoT Platform for Smart Cities.
+Paper title: Smart Farming: Internet of Things (IoT)-Based Sustainable Agriculture .
 
-Paper Link: https://www.mdpi.com/2071-1050/15/1/735
+Paper Link: https://www.mdpi.com/2077-0472/12/10/1745
 
 Group Number:12
 
